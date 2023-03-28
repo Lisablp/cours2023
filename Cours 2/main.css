@@ -1,1 +1,24 @@
-p{color:red;}
+p{color:powderblue;}
+
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: blue;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+h1{font-family: 'Delicious Handrawn', cursive;}
+
+
+h2 {
+  font-family: Courier;
+  color: palevioletred;
+  font-size: 25px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}

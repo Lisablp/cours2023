@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ 	<title> Le centre du monde </title>
+ 	<style> 
+ 		#container {width: 80%; margin: 0 auto;}
+ 	</style>
+ </head>
+ <body>
+ 	<div id="container">
+ 		<div id="header"> Comité olympique français : pour son cinquantenaire, le CNOSF apparaît plus divisé que jamais </div>
+ 		<div id="content">
+ 			<P> Le feu couve toujours au sein du Comité national olympique et sportif français (CNOSF). Mardi 28 mars, la présidente de l’institution faîtière du mouvement sportif français, Brigitte Henriques, a expliqué avoir demandé au Comité international olympique (CIO) de réaliser un audit pour tenter de « mettre un terme » à la cabale dont elle s’estime victime depuis des mois.</P>
+ 			<p> Quatre mois après le retour aux affaires de l’ancienne vice-présidente de la Fédération française de football qui, épuisée, avait dû faire une pause de huit semaines, les célébrations du cinquantenaire du CNOSF mardi soir en présence de la ministre des sports Amélie Oudéa-Castéra et du patron du comité d’organisation des JO de Paris Tony Estanguet, devaient être l’occasion pour l’institution de montrer un visage d’unité retrouvée.</p>
+ 		</div>
+ 	</div>
+ </body>
+ </html>
+ 
+
